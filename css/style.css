@@ -1,0 +1,25 @@
+
+header{
+    height: 4rem;
+}
+.container{
+    margin: 0 25%;
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: 500;
+    line-height: 1.6rem;
+}
+.element{
+    margin: 90px 0;
+}
+.element-info img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+.element-info{
+    display: flex;
+}
+.user-info{
+    line-height: 1rem
+}
